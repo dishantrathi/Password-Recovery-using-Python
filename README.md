@@ -9,7 +9,7 @@ A python script to automate gathering passwords and information from the current
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ```
-git clone https://github.com/dishantrathi/
+git clone https://github.com/dishantrathi/Password-Recovery-using-Python.git
 ```
 ### Prerequisites
 
