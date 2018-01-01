@@ -1,0 +1,18 @@
+________________________________
+								|
+ - Loot.py (20180101_22h14m41s)	|
+ - User:   localhost            |
+________________________________|
+
+ -  System Info:
+[*] Windows (AMD64)
+[*] Windows 10 (10.0.16299)
+
+ -  Looting Windows...
+[e] Network: Access denied.
+[e] Wi-Fi: Access denied.
+[*] Found browser passwords.
+[*] Found chrome passwords.
+[*] Found firefox passwords.
+
+ -  Looted: [ 3 / 7 ]

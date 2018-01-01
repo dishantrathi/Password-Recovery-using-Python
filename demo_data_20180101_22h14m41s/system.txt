@@ -1,0 +1,11 @@
+Windows
+AMD64
+Windows-10-10.0.16299-SP0
+10.0.16299
+localhost
+Windows
+DESKTOP-160G49T
+10
+10.0.16299
+AMD64
+Intel64 Family 6 Model 61 Stepping 4, GenuineIntel
