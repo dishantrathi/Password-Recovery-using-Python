@@ -14,8 +14,6 @@ git clone https://github.com/dishantrathi/Password-Recovery-using-Python.git
 ### Prerequisites
 
 * [Python v3.6](https://www.python.org/) - As Base
-  OR
-* [Python v2.6](https://www.python.org/) [Change the 'print' function syntax on 120 line]**
 
 ## Running
 
