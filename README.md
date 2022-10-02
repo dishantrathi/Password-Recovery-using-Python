@@ -1,6 +1,6 @@
 # Password Recovery using Python
 
-[Dishant Rathi](https://www.dishantrathi.tk)  [@techiedishant](https://www.twitter.com/techiedishant)
+[@techiedishant](https://www.twitter.com/techiedishant)
 
 A python script to automate gathering passwords and information from the current user and operating system.
 
