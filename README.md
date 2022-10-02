@@ -56,8 +56,6 @@ Compile for desired operating system (Linux, OSX, Win).You can use either PyInst
 
 - For use in computer systems where you are authorized! ;)
 
-Youtube Video : Soon
-
 ## Ethical-Hacking Section
 
 Create an Autorun File and Execute through a USB Device or Pendrive.
